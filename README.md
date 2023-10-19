@@ -1,5 +1,6 @@
 <h1>Analysis-Project-in-Excel :computer:</h1>
-<p>Using Excel to make sense of the dataset and visualize insights</p>
+
+Using Excel to make sense of the dataset and visualize insights
 
 <u>
   <li>Create a working sheet to protect raw data in case I make mistakes(I will still have access to the original</li>
