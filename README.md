@@ -10,3 +10,6 @@
 
 <h1>Pivot Table :chart_with_downwards_trend:</h1>
 
+![Screenshot 2023-10-19 101826](https://github.com/DataFairy-FeliciaM/Analysis-Project-in-Excel/assets/119903285/293619d0-c6f0-4ad8-918c-967bcf2c17f6)
+
+
