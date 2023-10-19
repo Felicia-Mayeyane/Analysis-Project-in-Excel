@@ -15,3 +15,5 @@
 
 <h1>Dashboard :bar_chart: </h1>
 
+![Screenshot 2023-10-19 101918](https://github.com/DataFairy-FeliciaM/Analysis-Project-in-Excel/assets/119903285/8c1910b5-fe76-4b6e-9697-8862228a9603)
+
