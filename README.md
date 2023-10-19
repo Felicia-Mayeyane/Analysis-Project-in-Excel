@@ -7,3 +7,6 @@
   <li>Make use of pivot tables to get more insights and visualize more aggregate functions</li>
   <li>Interactive Dashboard to be used by the team:collision: </li> 
 </u>
+
+<h1>Pivot Table :chart_with_downwards_trend:</h1>
+
