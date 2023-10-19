@@ -13,19 +13,21 @@
 ![Screenshot 2023-10-19 101826](https://github.com/DataFairy-FeliciaM/Analysis-Project-in-Excel/assets/119903285/293619d0-c6f0-4ad8-918c-967bcf2c17f6)
 
 
+<h1>Interactive Dashboard</h1>   
+
+
+https://github.com/DataFairy-FeliciaM/Analysis-Project-in-Excel/assets/119903285/0361d00f-f4b2-4b11-b803-13028ec1f039
+
+
+
+
+
+
+
+
+
+
 <h1>Dashboard :bar_chart: </h1>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
