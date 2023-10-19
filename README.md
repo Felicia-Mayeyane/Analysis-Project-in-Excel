@@ -1,4 +1,4 @@
-<h1>Analysis-Project-in-Excel</h1>
+<h1>Analysis-Project-in-Excel :computer:</h1>
 <p>Using Excel to make sense of the dataset and visualize insights</p>
 
 <u>
